@@ -1,2 +1,2 @@
 # hello
-Web Development with Python &amp; JavaScript
+Web Development with Python &amp; JavaScript.
